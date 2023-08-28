@@ -11,5 +11,5 @@
 
 <div align="center" display="flex">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jonlin223&theme=transparent" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonlin223&langs_count=8&layout=compact&theme=transparent"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonlin223&langs_count=6&layout=compact&theme=transparent"/>
 </div>
