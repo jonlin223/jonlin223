@@ -3,7 +3,7 @@
 </div>
 
 ## About me 😊
-- 💀 23 Years Old
+- 💀 24 Years Old
 - 😄 Pronouns: He/Him
 - 🦘 Australian
 - 🖥️ 5th Year Software Engineering Student
