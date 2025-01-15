@@ -6,7 +6,7 @@
 - 💀 24 Years Old
 - 😄 Pronouns: He/Him
 - 🦘 Australian
-- 🖥️ 5th Year Software Engineering Student
+- 🖥️ 6th Year Software Engineering Student
 - 🎮 & 🎧 Enjoyer
 
 <div align="center" display="flex">
