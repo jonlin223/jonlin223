@@ -3,10 +3,10 @@
 </div>
 
 ## About me 😊
-- 💀 24 Years Old
+- 💀 25 Years Old
 - 😄 Pronouns: He/Him
 - 🦘 Australian
-- 🖥️ 6th Year Software Engineering Student
+- 🖥️ Software Engineering / Finance Graduate from UNSW
 - 🎮 & 🎧 Enjoyer
 
 <div align="center" display="flex">
